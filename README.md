@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KKGAMER
 - 👀 I’m interested in Nothing
-- 🌱 I’m currently learning how to become pro
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on how to code 
-- 📫 How to reach me, my mail is kkgameryt2007@gmail.com
+- 📫 
 
 <!---
 KKGAMER/KKGAMER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
