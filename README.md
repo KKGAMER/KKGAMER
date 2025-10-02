@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @KKGAMER
-- 👀 I’m interested in Nothing
+- 👋 Hi, I’m Krishna
+- 👀 I’m interested in Web 3,Coding, Finance
 - 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on how to code 
 - 📫 
 
 <!---
